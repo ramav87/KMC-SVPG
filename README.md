@@ -1,16 +1,22 @@
 # KMC-SVPG
 Code for distributed Stein variational policy gradient on a kinetic monte-carlo materials synthesis environment. The paper is available on arxiv.
 
-Main Dependencies
+*Main Dependencies*
 mpi4py
+
 horovod
+
 Tensorflow v2
+
 tensorflow_probability 0.9
+
 gym
+
 numpy
+
 matplotlib
 
-Installation Instructions
+*Installation Instructions*
 
 First, make sure you have the core dependencies above. Unzip the two zip files which contain the core KMC engine and the openAI environment. Then, install the kmcsim package: navigate to the kmcsim folder, and from the terminal:
 
@@ -24,7 +30,7 @@ Finally, install the svpg code
 
 ``python setup.py install``
 
-Running the script:
+*Running the script*
 
 Once installed, from the svpg folder launch
 
