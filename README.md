@@ -2,6 +2,7 @@
 Code for distributed Stein variational policy gradient on a kinetic monte-carlo materials synthesis environment. The paper is available on arxiv.
 
 *Main Dependencies*
+
 mpi4py
 
 horovod
