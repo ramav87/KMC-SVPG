@@ -1,0 +1,13 @@
+README.md
+setup.py
+svpg/__init__.py
+svpg/svgd_kernel.py
+svpg/train.py
+svpg/train_rkv.py
+svpg/util.py
+svpg/vpg.py
+svpg.egg-info/PKG-INFO
+svpg.egg-info/SOURCES.txt
+svpg.egg-info/dependency_links.txt
+svpg.egg-info/requires.txt
+svpg.egg-info/top_level.txt
